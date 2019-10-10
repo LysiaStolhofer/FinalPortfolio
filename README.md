@@ -12,11 +12,10 @@ Before you Begin
 - Click the "Repositories you contribute to" checkbox (this will allow you to "pin" Project 1 even if you aren't the "owner")
 - Click the checkboxes for your project and 2-3 homework assignments that you would like to share
 - Make sure each of these projects is deployed and add a link to the deployed project in their README files
+- Revisit your portfolio page
+- Open up your old portfolio page
 
-Revisit your portfolio page
-Open up your old portfolio page
-
-Read through the rest of the homework requirements and decide whether you can update your existing portfolio page or if you want to start fresh now that you've had some more HTML/CSS practice (you may also want to change it to be a single page instead of multiple pages or you might even want to consider using a paid theme)
+  - Read through the rest of the homework requirements and decide whether you can update your existing portfolio page or if you want to     start fresh now that you've had some more HTML/CSS practice (you may also want to change it to be a single page instead of multiple     pages or you might even want to consider using a paid theme)
 
 
 Required: Update your Portfolio Site -- Employer Ready
