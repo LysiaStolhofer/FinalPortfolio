@@ -6,12 +6,12 @@ Now that you've had some practice with HTML and have a project to share, you'll 
 If you are opting out of career services, this is still a required assignment. Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but is still critical on your journey as a developer.
 
 Before you Begin
--Pin some repos that you want to share
--Navigate to your GitHub Profile
--Click "Customize your pinned repositories"
--Click the "Repositories you contribute to" checkbox (this will allow you to "pin" Project 1 even if you aren't the "owner")
--Click the checkboxes for your project and 2-3 homework assignments that you would like to share
--Make sure each of these projects is deployed and add a link to the deployed project in their README files
+- Pin some repos that you want to share
+- Navigate to your GitHub Profile
+- Click "Customize your pinned repositories"
+- Click the "Repositories you contribute to" checkbox (this will allow you to "pin" Project 1 even if you aren't the "owner")
+- Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+- Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
 Revisit your portfolio page
 Open up your old portfolio page
